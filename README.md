@@ -1,6 +1,6 @@
 # Privacy Policy for Plantastic
 
-**Effective Date:** [Insert Date, e.g., February 23, 2026]
+**Effective Date:** February 23, 2026
 
 This Privacy Policy describes how the Plantastic application ("App", "we", "us", or "our") collects, uses, and discloses your information. Plantastic is a household and plant management application available on the Google Play Store.
 
@@ -10,9 +10,8 @@ We are committed to protecting your privacy and ensuring that your personal data
 
 For the purposes of the FADP, the data controller is:
 
-[Your Name / Company Name]
-[Your Address in Switzerland]
-[Your Email Address]
+Lukas Heller
+Switzerland
 
 ## 2. Personal Data We Collect
 
@@ -49,7 +48,7 @@ These third parties are bound by strict data processing agreements and are oblig
 
 We retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy. 
 
-**Account Deletion:** You have the right to delete your account and associated data at any time. You can do this directly within the App's settings menu or by contacting us at [Your Email Address]. Upon initiating deletion, your data will be permanently removed from our active databases.
+**Account Deletion:** You have the right to delete your account and associated data at any time. You can do this directly within the App's settings menu or by contacting us via lukas96heller@gmail.com. Upon initiating deletion, your data will be permanently removed from our active databases.
 
 ## 6. Your Rights Under the FADP
 
@@ -60,7 +59,7 @@ Under the revised Swiss Federal Act on Data Protection (FADP), you have the foll
 *   **Right to Restriction of Processing:** You can request that we limit the processing of your data.
 *   **Right to Data Portability:** You can request to receive your data in a structured, commonly used, and machine-readable format.
 
-To exercise any of these rights, please contact us at [Your Email Address].
+To exercise any of these rights, please contact us at lukas96heller@gmail.com.
 
 ## 7. Security of Your Data
 
@@ -78,4 +77,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-**Email:** [Your Email Address]
+**Email:** lukas96heller@gmail.com
